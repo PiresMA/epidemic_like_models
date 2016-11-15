@@ -1,12 +1,21 @@
 # epidemic_like_models
 (in progress) a list of applications of epidemic-like models
 
+Overview and review
+* Rodrigues, Helena Sofia. "Application of SIR epidemiological model: new trends." arXiv preprint arXiv:1611.02565 (2016).
+
 Tax evasion dynamics
 * Brum, Rafael M., and Nuno Crokidakis. "Dynamics of tax evasion through an epidemic-like model." International Journal of Modern Physics C (2016): 1750023.
 
 Failures spreading 
 * Ripoll, J., M. Manzano, and E. Calle. "Spread of epidemic-like failures in telecommunication networks." Physica A: Statistical Mechanics and its Applications 410 (2014): 457-469.
 * Bao, Z. J., et al. "Dynamics of load entropy during cascading failure propagation in scale-free networks." Physics Letters A 372.36 (2008): 5778-5782.
+
+Information spreading
+* Rodrigues, Helena Sofia, and Manuel José Fonseca. "Can information be spread as a virus? viral marketing as epidemiological model." Mathematical Methods in the Applied Sciences (2015).
+* Nekovee, Maziar, et al. "Theory of rumour spreading in complex social networks." Physica A: Statistical Mechanics and its Applications 374.1 (2007): 457-470.
+* Zhao, Laijun, et al. "Rumor spreading model with consideration of forgetting mechanism: A case of online blogging LiveJournal." Physica A: Statistical Mechanics and its Applications 390.13 (2011): 2619-2625.
+* Borge-Holthoefer, Javier, and Yamir Moreno. "Absence of influential spreaders in rumor dynamics." Physical Review E 85.2 (2012): 026116.
 
 Computer virus spreading 
 * Huang, Chung-Yuan, et al. "A computer virus spreading model based on resource limitations and interaction costs." Journal of Systems and Software 86.3 (2013): 801-808.
