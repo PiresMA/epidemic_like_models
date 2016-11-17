@@ -9,6 +9,9 @@ Overview and review
 Tax evasion dynamics
 * Brum, Rafael M., and Nuno Crokidakis. "Dynamics of tax evasion through an epidemic-like model." International Journal of Modern Physics C (2016): 1750023.
 
+Finance
+* Shive, S. (2010) ‘An Epidemic Model of Investor Behavior’, Journal of Financial and Quantitative Analysis, 45(1), pp. 169–198. doi: 10.1017/S0022109009990470
+
 
 Social contagion
 * Hill, Alison L., et al. "Infectious disease modeling of social contagion in networks." PLoS Comput Biol 6.11 (2010): e1000968.
@@ -45,5 +48,12 @@ Information and Computation
 * Eugster, Patrick T., et al. "Epidemic information dissemination in distributed systems." Computer 37.5 (2004): 60-67.
 * Vogels, Werner, Robbert Van Renesse, and Ken Birman. "The power of epidemics: robust communication for large-scale distributed systems." ACM SIGCOMM Computer Communication Review 33.1 (2003): 131-135.
 * Gupta, Indranil, Anne-Marie Kermarrec, and Ayalvadi J. Ganesh. "Efficient epidemic-style protocols for reliable and scalable multicast." Reliable Distributed Systems, 2002. Proceedings. 21st IEEE Symposium on. IEEE, 2002.
+
+
+Fire spreading
+* xxx
+
+
+
 
 
