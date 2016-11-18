@@ -9,10 +9,14 @@ Overview and review
 Tax evasion dynamics
 * Brum, Rafael M., and Nuno Crokidakis. "Dynamics of tax evasion through an epidemic-like model." International Journal of Modern Physics C (2016): 1750023.
 
+
 Finance and Economy
 * Shive, S. (2010) ‘An Epidemic Model of Investor Behavior’, Journal of Financial and Quantitative Analysis, 45(1), pp. 169–198. doi: 10.1017/S0022109009990470
 * Hong, Dong, Harrison G. Hong, and Andrei Ungureanu. "An epidemiological approach to opinion and price-volume dynamics." AFA 2012 Chicago Meetings Paper. 2011.
 * Carroll, Christopher D. The epidemiology of macroeconomic expectations. No. w8695. National Bureau of Economic Research, 2001.
+* Shtatland, Ernest S., and Timur Shtatland. "Early detection of epidemic outbreaks and financial bubbles using autoregressive models with structural changes." Proceedings of the NESUG 21 (2008).
+* Woo, Jiyoung, and Hsinchun Chen. "Epidemic model for information diffusion in web forums: experiments in marketing exchange and political dialog." SpringerPlus 5.1 (2016): 1.
+
 
 Social contagion
 * Hill, Alison L., et al. "Infectious disease modeling of social contagion in networks." PLoS Comput Biol 6.11 (2010): e1000968.
@@ -22,6 +26,8 @@ Social contagion
 * Gómez-Gardeñes, Jesús, et al. "Abrupt transitions from reinfections in social contagions." EPL (Europhysics Letters) 110.5 (2015): 58006.
 * Gómez-Gardeñes, J., et al. "Explosive Contagion in Networks." Scientific reports 6 (2016).
 * Wang, Wei, et al. "Dynamics of social contagions with memory of nonredundant information." Physical Review E 92.1 (2015): 012820.
+* Sooknanan, Joanna, and Donna MG Comissiong. "When behaviour turns contagious: the use of deterministic epidemiological models in modeling social contagion phenomena." International Journal of Dynamics and Control (2016): 1-5.
+
 
 Failures spreading 
 * Ripoll, J., M. Manzano, and E. Calle. "Spread of epidemic-like failures in telecommunication networks." Physica A: Statistical Mechanics and its Applications 410 (2014): 457-469.
