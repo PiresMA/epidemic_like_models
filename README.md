@@ -10,6 +10,12 @@ Tax evasion dynamics
 * Brum, Rafael M., and Nuno Crokidakis. "Dynamics of tax evasion through an epidemic-like model." International Journal of Modern Physics C (2016): 1750023.
 
 
+Traffic congestion and railway faults spreading
+* Zhou, Jin, et al. "Railway faults spreading model based on dynamics of complex network." International Journal of Modern Physics B 29.06 (2015): 1550038.
+* Wu, Jianjun, Ziyou Gao, and Huijun Sun. "Simulation of traffic congestion with SIR model." Modern Physics Letters B 18.30 (2004): 1537-1542.
+* Sun, Huijun, and Jianjun Wu. "Urban traffic congestion spreading in small world networks." International Journal of Modern Physics B 19.28 (2005): 4239-4246.
+
+
 Finance and Economy
 * Shive, S. (2010) ‘An Epidemic Model of Investor Behavior’, Journal of Financial and Quantitative Analysis, 45(1), pp. 169–198. doi: 10.1017/S0022109009990470
 * Hong, Dong, Harrison G. Hong, and Andrei Ungureanu. "An epidemiological approach to opinion and price-volume dynamics." AFA 2012 Chicago Meetings Paper. 2011.
@@ -65,9 +71,9 @@ Information and Computation
 * Vogels, Werner, Robbert Van Renesse, and Ken Birman. "The power of epidemics: robust communication for large-scale distributed systems." ACM SIGCOMM Computer Communication Review 33.1 (2003): 131-135.
 * Gupta, Indranil, Anne-Marie Kermarrec, and Ayalvadi J. Ganesh. "Efficient epidemic-style protocols for reliable and scalable multicast." Reliable Distributed Systems, 2002. Proceedings. 21st IEEE Symposium on. IEEE, 2002.
 
-
-Traffic congestion
-* Wu, Jianjun, Ziyou Gao, and Huijun Sun. "Simulation of traffic congestion with SIR model." Modern Physics Letters B 18.30 (2004): 1537-1542.
+Violence spreads
+* Nizamani, Sarwat, Nasrullah Memon, and Serge Galam. "From public outrage to the burst of public violence: An epidemic-like model." Physica A: Statistical Mechanics and its Applications 416 (2014): 620-630.
+* Loftin, Colin. "Assaultive violence as a contagious social process." Bulletin of the New York Academy of Medicine 62.5 (1986): 550.
 
 
 Fire spreading
