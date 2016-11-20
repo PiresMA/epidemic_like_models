@@ -25,6 +25,7 @@ Finance and Economy
 
 
 Social contagion
+* Dodds, Peter Sheridan, and Duncan J. Watts. "A generalized model of social and biological contagion." Journal of theoretical biology 232.4 (2005): 587-604.
 * Hill, Alison L., et al. "Infectious disease modeling of social contagion in networks." PLoS Comput Biol 6.11 (2010): e1000968.
 * Hill, Alison L., et al. "Emotions as infectious diseases in a large social network: the SISa model." Proceedings of the Royal Society of London B: Biological Sciences 277.1701 (2010): 3827-3835.
 * Ejima, Keisuke, Kazuyuki Aihara, and Hiroshi Nishiura. "Modeling the obesity epidemic: social contagion and its implications for control." Theoretical Biology and Medical Modelling 10.1 (2013): 1.
@@ -33,7 +34,7 @@ Social contagion
 * Gómez-Gardeñes, J., et al. "Explosive Contagion in Networks." Scientific reports 6 (2016).
 * Wang, Wei, et al. "Dynamics of social contagions with memory of nonredundant information." Physical Review E 92.1 (2015): 012820.
 * Sooknanan, Joanna, and Donna MG Comissiong. "When behaviour turns contagious: the use of deterministic epidemiological models in modeling social contagion phenomena." International Journal of Dynamics and Control (2016): 1-5.
-
+* Castillo-Chavez, Carlos, and Sunmi Lee. "Epidemiology Modeling in the Life and Social Sciences." (2011).
 
 Failures spreading 
 * Ripoll, J., M. Manzano, and E. Calle. "Spread of epidemic-like failures in telecommunication networks." Physica A: Statistical Mechanics and its Applications 410 (2014): 457-469.
@@ -71,9 +72,24 @@ Information and Computation
 * Vogels, Werner, Robbert Van Renesse, and Ken Birman. "The power of epidemics: robust communication for large-scale distributed systems." ACM SIGCOMM Computer Communication Review 33.1 (2003): 131-135.
 * Gupta, Indranil, Anne-Marie Kermarrec, and Ayalvadi J. Ganesh. "Efficient epidemic-style protocols for reliable and scalable multicast." Reliable Distributed Systems, 2002. Proceedings. 21st IEEE Symposium on. IEEE, 2002.
 
-Violence spreads
+
+
+Spread of (scientific) ideas
+* Bettencourt, Luís MA, et al. "The power of a good idea: Quantitative modeling of the spread of ideas from epidemiological models." Physica A: Statistical Mechanics and its Applications 364 (2006): 513-536.
+* Goffman, William, and V. A. Newill. "Generalization of epidemic theory." Nature 204.4955 (1964): 225-228.
+* Tabah, Albert N. "Literature dynamics: Studies on growth, diffusion, and epidemics." Annual review of information science and technology (ARIST) 34 (1999): 249-86.
+* xxxx
+ 
+Propagation of public violence
+* Wiley, Shari A., Michael Z. Levy, and Charles C. Branas. "The Impact of Violence Interruption on the Diffusion of Violence: A Mathematical Modeling Approach." Advances in the Mathematical Sciences. Springer International Publishing, 2016. 225-249.
 * Nizamani, Sarwat, Nasrullah Memon, and Serge Galam. "From public outrage to the burst of public violence: An epidemic-like model." Physica A: Statistical Mechanics and its Applications 416 (2014): 620-630.
 * Loftin, Colin. "Assaultive violence as a contagious social process." Bulletin of the New York Academy of Medicine 62.5 (1986): 550.
+* Slutkin, Gary, Charles Ransford, and R. Brent Decker. "Cure Violence: Treating Violence As a Contagious Disease." Envisioning Criminology. Springer International Publishing, 2015. 43-56.
+
+
+smoking and alcoholism
+* Benedict, Brandy. "Modeling alcoholism as a contagious disease: how infected drinking buddies spread problem drinking." SIAM news 40.3 (2007).
+* Gorman, Dennis M., et al. "Agent-based modeling of drinking behavior: a preliminary model and potential applications to theory and practice." American Journal of Public Health 96.11 (2006): 2055-2060.
 
 
 Fire spreading
