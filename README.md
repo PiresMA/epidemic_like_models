@@ -56,12 +56,18 @@ Computer virus spreading
 * Tang, Shensheng. "A modified SI epidemic model for combating virus spread in wireless sensor networks." International Journal of Wireless Information Networks 18.4 (2011): 319-326.
 * Fan, YuanYuan, KangFeng Zheng, and YiXian Yang. "Epidemic model of mobile phone virus for hybrid spread mode with preventive immunity and mutation." 2010 6th International Conference on Wireless Communications Networking and Mobile Computing (WiCOM). IEEE, 2010.
 * Xia, Wei, et al. "Dynamic epidemic model of smart phone virus propagated through Bluetooth and MMS." Wireless, Mobile and Sensor Networks, 2007.(CCWMSN07). IET Conference on. IET, 2007.
+* Cheng, Jun-Jun, et al. "An epidemic model of rumor diffusion in online social networks." The European Physical Journal B 86.1 (2013): 1-7.
+* Trpevski, Daniel, Wallace KS Tang, and Ljupco Kocarev. "Model for rumor spreading over networks." Physical Review E 81.5 (2010): 056102.
 
 
 Information and Computation
 * Eugster, Patrick T., et al. "Epidemic information dissemination in distributed systems." Computer 37.5 (2004): 60-67.
 * Vogels, Werner, Robbert Van Renesse, and Ken Birman. "The power of epidemics: robust communication for large-scale distributed systems." ACM SIGCOMM Computer Communication Review 33.1 (2003): 131-135.
 * Gupta, Indranil, Anne-Marie Kermarrec, and Ayalvadi J. Ganesh. "Efficient epidemic-style protocols for reliable and scalable multicast." Reliable Distributed Systems, 2002. Proceedings. 21st IEEE Symposium on. IEEE, 2002.
+
+
+Traffic congestion
+* Wu, Jianjun, Ziyou Gao, and Huijun Sun. "Simulation of traffic congestion with SIR model." Modern Physics Letters B 18.30 (2004): 1537-1542.
 
 
 Fire spreading
