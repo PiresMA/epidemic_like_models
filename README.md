@@ -33,13 +33,20 @@ Failures spreading
 * Ripoll, J., M. Manzano, and E. Calle. "Spread of epidemic-like failures in telecommunication networks." Physica A: Statistical Mechanics and its Applications 410 (2014): 457-469.
 * Bao, Z. J., et al. "Dynamics of load entropy during cascading failure propagation in scale-free networks." Physics Letters A 372.36 (2008): 5778-5782.
 
+
 Information spreading
+* Kandhway, Kundan, and Joy Kuri. "Accelerating information diffusion in social networks under the Susceptible-Infected-Susceptible epidemic model." Advances in Computing, Communications and Informatics (ICACCI, 2014 International Conference on. IEEE, 2014.
+* Kandhway, Kundan, and Joy Kuri. "Campaigning in heterogeneous social networks: Optimal control of SI information epidemics." IEEE/ACM Transactions on Networking 24.1 (2016): 383-396.
+* Kandhway, Kundan, and Joy Kuri. "Optimal control of information epidemics modeled as Maki Thompson rumors." Communications in Nonlinear Science and Numerical Simulation 19.12 (2014): 4135-4147.
+* Kandhway, Kundan, and Joy Kuri. "How to run a campaign: Optimal control of SIS and SIR information epidemics." Applied Mathematics and Computation 231 (2014): 79-92.
+* H. S. Rodrigues and M. J. Fonseca, Viral Marketing as epidemiological model. Proceedings of the 15th International Conference on Computational and Mathemtics Methods in Science and Engineering 946–955, 2015
 * Rodrigues, Helena Sofia, and Manuel José Fonseca. "Can information be spread as a virus? viral marketing as epidemiological model." Mathematical Methods in the Applied Sciences (2015).
 * Nekovee, Maziar, et al. "Theory of rumour spreading in complex social networks." Physica A: Statistical Mechanics and its Applications 374.1 (2007): 457-470.
 * Zhao, Laijun, et al. "Rumor spreading model with consideration of forgetting mechanism: A case of online blogging LiveJournal." Physica A: Statistical Mechanics and its Applications 390.13 (2011): 2619-2625.
 * Borge-Holthoefer, Javier, and Yamir Moreno. "Absence of influential spreaders in rumor dynamics." Physical Review E 85.2 (2012): 026116.
 
 Computer virus spreading 
+* Liu, Wanping, et al. "Modeling the spread of malware with the influence of heterogeneous immunization." Applied Mathematical Modelling 40.4 (2016): 3141-3152.
 * Huang, Chung-Yuan, et al. "A computer virus spreading model based on resource limitations and interaction costs." Journal of Systems and Software 86.3 (2013): 801-808.
 * Tang, Shensheng, and Brian L. Mark. "Analysis of virus spread in wireless sensor networks: An epidemic model." Design of Reliable Communication Networks, 2009. DRCN 2009. 7th International Workshop on. IEEE, 2009.
 * Zheng, Hui, Dong Li, and Zhuo Gao. "An epidemic model of mobile phone virus." 2006 First International Symposium on Pervasive Computing and Applications. IEEE, 2006.
