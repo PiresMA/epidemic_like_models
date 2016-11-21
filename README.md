@@ -89,6 +89,10 @@ Propagation of public violence
 
 smoking and alcoholism
 * Benedict, Brandy. "Modeling alcoholism as a contagious disease: how infected drinking buddies spread problem drinking." SIAM news 40.3 (2007).
+* Manthey, J. L., A. Y. Aidoo, and K. Y. Ward. "Campus drinking: an epidemiological model." Journal of biological dynamics 2.3 (2008): 346-356.
+* Mulone, Giuseppe, and Brian Straughan. "Modeling binge drinking." International Journal of Biomathematics 5.01 (2012): 1250005.
+* Wang, Xun-Yang, et al. "Optimal control strategies in an alcoholism model." Abstract and Applied Analysis. Vol. 2014. Hindawi Publishing Corporation, 2014.
+* Walters, Caroline Elizabeth, Brian Straughan, and Jeremy R. Kendal. "Modelling alcohol problems: total recovery." Ricerche di Matematica 62.1 (2013): 33-53.
 * Gorman, Dennis M., et al. "Agent-based modeling of drinking behavior: a preliminary model and potential applications to theory and practice." American Journal of Public Health 96.11 (2006): 2055-2060.
 
 
