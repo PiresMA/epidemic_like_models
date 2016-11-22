@@ -31,7 +31,7 @@ Social contagion
 * Castillo-Chavez, Carlos, and Sunmi Lee. "Epidemiology Modeling in the Life and Social Sciences." (2011).
 
 
-Information spreading
+Information/Rumour spreading
 * Kandhway, Kundan, and Joy Kuri. "Accelerating information diffusion in social networks under the Susceptible-Infected-Susceptible epidemic model." Advances in Computing, Communications and Informatics (ICACCI, 2014 International Conference on. IEEE, 2014.
 * Kandhway, Kundan, and Joy Kuri. "Campaigning in heterogeneous social networks: Optimal control of SI information epidemics." IEEE/ACM Transactions on Networking 24.1 (2016): 383-396.
 * Kandhway, Kundan, and Joy Kuri. "Optimal control of information epidemics modeled as Maki Thompson rumors." Communications in Nonlinear Science and Numerical Simulation 19.12 (2014): 4135-4147.
@@ -41,6 +41,7 @@ Information spreading
 * Nekovee, Maziar, et al. "Theory of rumour spreading in complex social networks." Physica A: Statistical Mechanics and its Applications 374.1 (2007): 457-470.
 * Zhao, Laijun, et al. "Rumor spreading model with consideration of forgetting mechanism: A case of online blogging LiveJournal." Physica A: Statistical Mechanics and its Applications 390.13 (2011): 2619-2625.
 * Borge-Holthoefer, Javier, and Yamir Moreno. "Absence of influential spreaders in rumor dynamics." Physical Review E 85.2 (2012): 026116.
+* Daley, D. J., and David G. Kendall. "Stochastic rumours." IMA Journal of Applied Mathematics 1.1 (1965): 42-55.
 
 Computer virus spreading 
 * Liu, Wanping, et al. "Modeling the spread of malware with the influence of heterogeneous immunization." Applied Mathematical Modelling 40.4 (2016): 3141-3152.
@@ -98,7 +99,8 @@ Traffic congestion and railway faults spreading
 
 
 Fire spreading
-* xxx
+* Rhodes, C. J., and R. M. Anderson. "Forest-fire as a model for the dynamics of disease epidemics." Journal of the Franklin Institute 335.2 (1998): 199-211.
+* Bancal, J-D., and Romualdo Pastor-Satorras. "Steady-state dynamics of the forest fire model on complex networks." The European Physical Journal B 76.1 (2010): 109-121.
 
 
 
