@@ -10,12 +10,6 @@ Tax evasion dynamics
 * Brum, Rafael M., and Nuno Crokidakis. "Dynamics of tax evasion through an epidemic-like model." International Journal of Modern Physics C (2016): 1750023.
 
 
-Traffic congestion and railway faults spreading
-* Zhou, Jin, et al. "Railway faults spreading model based on dynamics of complex network." International Journal of Modern Physics B 29.06 (2015): 1550038.
-* Wu, Jianjun, Ziyou Gao, and Huijun Sun. "Simulation of traffic congestion with SIR model." Modern Physics Letters B 18.30 (2004): 1537-1542.
-* Sun, Huijun, and Jianjun Wu. "Urban traffic congestion spreading in small world networks." International Journal of Modern Physics B 19.28 (2005): 4239-4246.
-
-
 Finance and Economy
 * Shive, S. (2010) ‘An Epidemic Model of Investor Behavior’, Journal of Financial and Quantitative Analysis, 45(1), pp. 169–198. doi: 10.1017/S0022109009990470
 * Hong, Dong, Harrison G. Hong, and Andrei Ungureanu. "An epidemiological approach to opinion and price-volume dynamics." AFA 2012 Chicago Meetings Paper. 2011.
@@ -35,10 +29,6 @@ Social contagion
 * Wang, Wei, et al. "Dynamics of social contagions with memory of nonredundant information." Physical Review E 92.1 (2015): 012820.
 * Sooknanan, Joanna, and Donna MG Comissiong. "When behaviour turns contagious: the use of deterministic epidemiological models in modeling social contagion phenomena." International Journal of Dynamics and Control (2016): 1-5.
 * Castillo-Chavez, Carlos, and Sunmi Lee. "Epidemiology Modeling in the Life and Social Sciences." (2011).
-
-Failures spreading 
-* Ripoll, J., M. Manzano, and E. Calle. "Spread of epidemic-like failures in telecommunication networks." Physica A: Statistical Mechanics and its Applications 410 (2014): 457-469.
-* Bao, Z. J., et al. "Dynamics of load entropy during cascading failure propagation in scale-free networks." Physics Letters A 372.36 (2008): 5778-5782.
 
 
 Information spreading
@@ -96,10 +86,19 @@ smoking and alcoholism
 * Gorman, Dennis M., et al. "Agent-based modeling of drinking behavior: a preliminary model and potential applications to theory and practice." American Journal of Public Health 96.11 (2006): 2055-2060.
 
 
+Failures spreading 
+* Ripoll, J., M. Manzano, and E. Calle. "Spread of epidemic-like failures in telecommunication networks." Physica A: Statistical Mechanics and its Applications 410 (2014): 457-469.
+* Bao, Z. J., et al. "Dynamics of load entropy during cascading failure propagation in scale-free networks." Physics Letters A 372.36 (2008): 5778-5782.
+
+
+Traffic congestion and railway faults spreading
+* Zhou, Jin, et al. "Railway faults spreading model based on dynamics of complex network." International Journal of Modern Physics B 29.06 (2015): 1550038.
+* Wu, Jianjun, Ziyou Gao, and Huijun Sun. "Simulation of traffic congestion with SIR model." Modern Physics Letters B 18.30 (2004): 1537-1542.
+* Sun, Huijun, and Jianjun Wu. "Urban traffic congestion spreading in small world networks." International Journal of Modern Physics B 19.28 (2005): 4239-4246.
+
+
 Fire spreading
 * xxx
-
-
 
 
 
