@@ -2,6 +2,7 @@
 (in progress) a list of applications of epidemic-like models
 
 Overview and review
+* Sooknanan, Joanna, and Donna MG Comissiong. "When behaviour turns contagious: the use of deterministic epidemiological models in modeling social contagion phenomena." International Journal of Dynamics and Control(2016): 1-5.
 * Rodrigues, Helena Sofia. "Application of SIR epidemiological model: new trends." arXiv preprint arXiv:1611.02565 (2016).
 * Pastor-Satorras, Romualdo, et al. "Epidemic processes in complex networks." Reviews of modern physics 87.3 (2015): 925.
 
