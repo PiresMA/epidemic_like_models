@@ -32,6 +32,12 @@ Social contagion
 * Castillo-Chavez, Carlos, and Sunmi Lee. "Epidemiology Modeling in the Life and Social Sciences." (2011).
 
 
+Membership Dynamics
+* Jeffs, Rebecca A., et al. "Activist model of political party growth." Physica A: Statistical Mechanics and its Applications 442 (2016): 359-372.
+* Cooney, Daniel, Francisco Prieto-Castrillo, and Yaneer Bar-Yam. "Analysis of Infectious-Recovery Epidemic Models for Membership Dynamics of Online Social Networks." arXiv preprint arXiv:1608.07870 (2016).
+
+
+
 Information/Rumour spreading
 * Kandhway, Kundan, and Joy Kuri. "Accelerating information diffusion in social networks under the Susceptible-Infected-Susceptible epidemic model." Advances in Computing, Communications and Informatics (ICACCI, 2014 International Conference on. IEEE, 2014.
 * Kandhway, Kundan, and Joy Kuri. "Campaigning in heterogeneous social networks: Optimal control of SI information epidemics." IEEE/ACM Transactions on Networking 24.1 (2016): 383-396.
