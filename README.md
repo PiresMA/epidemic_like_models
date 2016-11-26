@@ -78,6 +78,12 @@ Spread of (scientific) ideas
 * Tabah, Albert N. "Literature dynamics: Studies on growth, diffusion, and epidemics." Annual review of information science and technology (ARIST) 34 (1999): 249-86.
 * xxxx
  
+
+Topic diffusion 
+* Woo, Jiyoung, and Hsinchun Chen. "An event-driven SIR model for topic diffusion in web forums." Intelligence and Security Informatics (ISI), 2012 IEEE International Conference on. IEEE, 2012.
+* Woo, Jiyoung, Sung Ho Ha, and Hsinchun Chen. "TRACING TOPIC DISCUSSIONS WITH THE EVENT-DRIVEN SIR MODEL FOR ONLINE FORUMS." Journal of Electronic Commerce Research 17.2 (2016): 169.
+
+ 
 Propagation of public violence
 * Wiley, Shari A., Michael Z. Levy, and Charles C. Branas. "The Impact of Violence Interruption on the Diffusion of Violence: A Mathematical Modeling Approach." Advances in the Mathematical Sciences. Springer International Publishing, 2016. 225-249.
 * Nizamani, Sarwat, Nasrullah Memon, and Serge Galam. "From public outrage to the burst of public violence: An epidemic-like model." Physica A: Statistical Mechanics and its Applications 416 (2014): 620-630.
