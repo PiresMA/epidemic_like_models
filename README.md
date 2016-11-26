@@ -49,6 +49,9 @@ Information/Rumour spreading
 * Zhao, Laijun, et al. "Rumor spreading model with consideration of forgetting mechanism: A case of online blogging LiveJournal." Physica A: Statistical Mechanics and its Applications 390.13 (2011): 2619-2625.
 * Borge-Holthoefer, Javier, and Yamir Moreno. "Absence of influential spreaders in rumor dynamics." Physical Review E 85.2 (2012): 026116.
 * Daley, D. J., and David G. Kendall. "Stochastic rumours." IMA Journal of Applied Mathematics 1.1 (1965): 42-55.
+D. P. Maki and M. Thompson, Mathematical models and applications: with emphasis on the social life, and management sciences (Prentice Hall, 1973).
+
+
 
 Computer virus spreading 
 * Liu, Wanping, et al. "Modeling the spread of malware with the influence of heterogeneous immunization." Applied Mathematical Modelling 40.4 (2016): 3141-3152.
