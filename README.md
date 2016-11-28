@@ -95,7 +95,7 @@ Propagation of public violence
 * Slutkin, Gary, Charles Ransford, and R. Brent Decker. "Cure Violence: Treating Violence As a Contagious Disease." Envisioning Criminology. Springer International Publishing, 2015. 43-56.
 
 
-smoking and alcoholism
+Smoking and alcoholism
 * Benedict, Brandy. "Modeling alcoholism as a contagious disease: how infected drinking buddies spread problem drinking." SIAM news 40.3 (2007).
 * Manthey, J. L., A. Y. Aidoo, and K. Y. Ward. "Campus drinking: an epidemiological model." Journal of biological dynamics 2.3 (2008): 346-356.
 * Mulone, Giuseppe, and Brian Straughan. "Modeling binge drinking." International Journal of Biomathematics 5.01 (2012): 1250005.
@@ -114,10 +114,6 @@ Traffic congestion and railway faults spreading
 * Wu, Jianjun, Ziyou Gao, and Huijun Sun. "Simulation of traffic congestion with SIR model." Modern Physics Letters B 18.30 (2004): 1537-1542.
 * Sun, Huijun, and Jianjun Wu. "Urban traffic congestion spreading in small world networks." International Journal of Modern Physics B 19.28 (2005): 4239-4246.
 
-
 Fire spreading
 * Rhodes, C. J., and R. M. Anderson. "Forest-fire as a model for the dynamics of disease epidemics." Journal of the Franklin Institute 335.2 (1998): 199-211.
 * Bancal, J-D., and Romualdo Pastor-Satorras. "Steady-state dynamics of the forest fire model on complex networks." The European Physical Journal B 76.1 (2010): 109-121.
-
-
-
