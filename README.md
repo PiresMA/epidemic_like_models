@@ -11,6 +11,13 @@ Tax evasion dynamics
 * Brum, Rafael M., and Nuno Crokidakis. "Dynamics of tax evasion through an epidemic-like model." International Journal of Modern Physics C (2016): 1750023.
 
 
+
+Membership Dynamics
+* Jeffs, Rebecca A., et al. "Activist model of political party growth." Physica A: Statistical Mechanics and its Applications 442 (2016): 359-372.
+* Cooney, Daniel, Francisco Prieto-Castrillo, and Yaneer Bar-Yam. "Analysis of Infectious-Recovery Epidemic Models for Membership Dynamics of Online Social Networks." arXiv preprint arXiv:1608.07870 (2016).
+
+
+
 Finance and Economy
 * Shive, S. (2010) ‘An Epidemic Model of Investor Behavior’, Journal of Financial and Quantitative Analysis, 45(1), pp. 169–198. doi: 10.1017/S0022109009990470
 * Hong, Dong, Harrison G. Hong, and Andrei Ungureanu. "An epidemiological approach to opinion and price-volume dynamics." AFA 2012 Chicago Meetings Paper. 2011.
@@ -30,11 +37,6 @@ Social contagion
 * Wang, Wei, et al. "Dynamics of social contagions with memory of nonredundant information." Physical Review E 92.1 (2015): 012820.
 * Sooknanan, Joanna, and Donna MG Comissiong. "When behaviour turns contagious: the use of deterministic epidemiological models in modeling social contagion phenomena." International Journal of Dynamics and Control (2016): 1-5.
 * Castillo-Chavez, Carlos, and Sunmi Lee. "Epidemiology Modeling in the Life and Social Sciences." (2011).
-
-
-Membership Dynamics
-* Jeffs, Rebecca A., et al. "Activist model of political party growth." Physica A: Statistical Mechanics and its Applications 442 (2016): 359-372.
-* Cooney, Daniel, Francisco Prieto-Castrillo, and Yaneer Bar-Yam. "Analysis of Infectious-Recovery Epidemic Models for Membership Dynamics of Online Social Networks." arXiv preprint arXiv:1608.07870 (2016).
 
 
 
