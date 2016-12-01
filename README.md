@@ -11,11 +11,9 @@ Tax evasion dynamics
 * Brum, Rafael M., and Nuno Crokidakis. "Dynamics of tax evasion through an epidemic-like model." International Journal of Modern Physics C (2016): 1750023.
 
 
-
 Membership Dynamics
 * Jeffs, Rebecca A., et al. "Activist model of political party growth." Physica A: Statistical Mechanics and its Applications 442 (2016): 359-372.
 * Cooney, Daniel, Francisco Prieto-Castrillo, and Yaneer Bar-Yam. "Analysis of Infectious-Recovery Epidemic Models for Membership Dynamics of Online Social Networks." arXiv preprint arXiv:1608.07870 (2016).
-
 
 
 Finance and Economy
