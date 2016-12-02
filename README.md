@@ -24,6 +24,7 @@ Finance and Economy
 * Woo, Jiyoung, and Hsinchun Chen. "Epidemic model for information diffusion in web forums: experiments in marketing exchange and political dialog." SpringerPlus 5.1 (2016): 1.
 
 
+
 Social contagion
 * Dodds, Peter Sheridan, and Duncan J. Watts. "A generalized model of social and biological contagion." Journal of theoretical biology 232.4 (2005): 587-604.
 * Hill, Alison L., et al. "Infectious disease modeling of social contagion in networks." PLoS Comput Biol 6.11 (2010): e1000968.
