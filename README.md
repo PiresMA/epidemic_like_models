@@ -10,6 +10,9 @@ Overview and review
 Tax evasion dynamics
 * Brum, Rafael M., and Nuno Crokidakis. "Dynamics of tax evasion through an epidemic-like model." International Journal of Modern Physics C (2016): 1750023.
 
+Memetics
+* Marsden, Paul. "Memetics and social contagion: Two sides of the same coin." Journal of Memetics-Evolutionary Models of Information Transmission 2.2 (1998): 171-185. 
+
 
 Membership Dynamics
 * Jeffs, Rebecca A., et al. "Activist model of political party growth." Physica A: Statistical Mechanics and its Applications 442 (2016): 359-372.
@@ -117,3 +120,12 @@ Traffic congestion and railway faults spreading
 Fire spreading
 * Rhodes, C. J., and R. M. Anderson. "Forest-fire as a model for the dynamics of disease epidemics." Journal of the Franklin Institute 335.2 (1998): 199-211.
 * Bancal, J-D., and Romualdo Pastor-Satorras. "Steady-state dynamics of the forest fire model on complex networks." The European Physical Journal B 76.1 (2010): 109-121.
+
+
+Emotion contagion
+* Gruzd, Anatoliy, Sophie Doiron, and Philip Mai. "Is happiness contagious online? A case of Twitter and the 2010 Winter Olympics." System Sciences (HICSS), 2011 44th Hawaii International Conference on. IEEE, 2011.
+* Fan, Rui, Ke Xu, and Jichang Zhao. "Easier contagion and weaker ties make anger spread faster than joy in social media." arXiv preprint arXiv:1608.03656 (2016).
+
+
+Seminal papers
+Kermack, William O., and Anderson G. McKendrick. "A contribution to the mathematical theory of epidemics." Proceedings of the Royal Society of London A: mathematical, physical and engineering sciences. Vol. 115. No. 772. The Royal Society, 1927.
