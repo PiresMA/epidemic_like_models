@@ -76,7 +76,6 @@ Information and Computation
 * Gupta, Indranil, Anne-Marie Kermarrec, and Ayalvadi J. Ganesh. "Efficient epidemic-style protocols for reliable and scalable multicast." Reliable Distributed Systems, 2002. Proceedings. 21st IEEE Symposium on. IEEE, 2002.
 
 
-
 Spread of (scientific) ideas
 * Bettencourt, Luís MA, et al. "The power of a good idea: Quantitative modeling of the spread of ideas from epidemiological models." Physica A: Statistical Mechanics and its Applications 364 (2006): 513-536.
 * Goffman, William, and V. A. Newill. "Generalization of epidemic theory." Nature 204.4955 (1964): 225-228.
