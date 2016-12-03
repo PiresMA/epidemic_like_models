@@ -36,7 +36,7 @@ Social contagion
 * Wang, Wei, et al. "Dynamics of social contagions with memory of nonredundant information." Physical Review E 92.1 (2015): 012820.
 * Sooknanan, Joanna, and Donna MG Comissiong. "When behaviour turns contagious: the use of deterministic epidemiological models in modeling social contagion phenomena." International Journal of Dynamics and Control (2016): 1-5.
 * Castillo-Chavez, Carlos, and Sunmi Lee. "Epidemiology Modeling in the Life and Social Sciences." (2011).
-
+* Cozzo, Emanuele, et al. "Contact-based social contagion in multiplex networks." Physical Review E 88.5 (2013): 050801.
 
 
 Information/Rumour spreading
