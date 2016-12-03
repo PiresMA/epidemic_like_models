@@ -10,6 +10,7 @@ Overview and review
 Tax evasion dynamics
 * Brum, Rafael M., and Nuno Crokidakis. "Dynamics of tax evasion through an epidemic-like model." International Journal of Modern Physics C (2016): 1750023.
 
+
 Memetics
 * Marsden, Paul. "Memetics and social contagion: Two sides of the same coin." Journal of Memetics-Evolutionary Models of Information Transmission 2.2 (1998): 171-185. 
 
@@ -43,6 +44,7 @@ Social contagion
 
 
 Information/Rumour spreading
+* Dietz, Klaus. "Epidemics and rumours: A survey." Journal of the Royal Statistical Society. Series A (General) (1967): 505-528.
 * Kandhway, Kundan, and Joy Kuri. "Accelerating information diffusion in social networks under the Susceptible-Infected-Susceptible epidemic model." Advances in Computing, Communications and Informatics (ICACCI, 2014 International Conference on. IEEE, 2014.
 * Kandhway, Kundan, and Joy Kuri. "Campaigning in heterogeneous social networks: Optimal control of SI information epidemics." IEEE/ACM Transactions on Networking 24.1 (2016): 383-396.
 * Kandhway, Kundan, and Joy Kuri. "Optimal control of information epidemics modeled as Maki Thompson rumors." Communications in Nonlinear Science and Numerical Simulation 19.12 (2014): 4135-4147.
@@ -92,6 +94,7 @@ Topic diffusion
 
  
 Propagation of public violence
+* Patten, S. B., and J. A. Arboleda-Florez. "Epidemic theory and group violence." Social psychiatry and psychiatric epidemiology 39.11 (2004): 853-856.
 * Wiley, Shari A., Michael Z. Levy, and Charles C. Branas. "The Impact of Violence Interruption on the Diffusion of Violence: A Mathematical Modeling Approach." Advances in the Mathematical Sciences. Springer International Publishing, 2016. 225-249.
 * Nizamani, Sarwat, Nasrullah Memon, and Serge Galam. "From public outrage to the burst of public violence: An epidemic-like model." Physica A: Statistical Mechanics and its Applications 416 (2014): 620-630.
 * Loftin, Colin. "Assaultive violence as a contagious social process." Bulletin of the New York Academy of Medicine 62.5 (1986): 550.
