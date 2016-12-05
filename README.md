@@ -43,6 +43,7 @@ Social contagion
 * Cozzo, Emanuele, et al. "Contact-based social contagion in multiplex networks." Physical Review E 88.5 (2013): 050801.
 
 
+
 Information/Rumour spreading
 * Dietz, Klaus. "Epidemics and rumours: A survey." Journal of the Royal Statistical Society. Series A (General) (1967): 505-528.
 * Kandhway, Kundan, and Joy Kuri. "Accelerating information diffusion in social networks under the Susceptible-Infected-Susceptible epidemic model." Advances in Computing, Communications and Informatics (ICACCI, 2014 International Conference on. IEEE, 2014.
